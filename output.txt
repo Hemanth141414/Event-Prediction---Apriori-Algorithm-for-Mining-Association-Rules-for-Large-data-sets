@@ -1,0 +1,66 @@
+==Frequent itemsets (min_sup=2.0%)
+[Education], 24.700%
+[Fitness], 18.267%
+[Art], 16.200%
+[Nature], 15.867%
+[Arsenal], 15.300%
+[09:00], 14.067%
+[10:00], 14.033%
+[11:00], 14.033%
+[Accessible], 12.533%
+[Arsenal, Art], 9.467%
+[14:00], 7.900%
+[13:00], 7.133%
+[Best for Kids], 6.700%
+[12:00], 6.567%
+[Audubon Center at the Boathouse], 5.933%
+[11:00, Education], 5.767%
+[Arts & Crafts], 5.733%
+[Charles A. Dana Discovery Center], 5.367%
+[09:00, Fitness], 5.133%
+[Alice Austen House Museum], 4.967%
+[Belvedere Castle], 4.600%
+[Bartow-Pell Mansion Museum], 4.067%
+[18:00], 4.033%
+[09:00, Art], 3.833%
+[19:00], 3.767%
+[Al Oerter Recreation Center], 3.567%
+[11:00, Nature], 3.233%
+[08:00], 3.167%
+[10:00, Nature], 3.167%
+[Alice Austen House Museum, Art], 3.133%
+[Carmine Carro Community Center], 3.000%
+[Carmine Carro Community Center, Fitness], 3.000%
+[Charles A. Dana Discovery Center, Nature], 3.000%
+[Bronx Zoo], 2.900%
+[Bronx Zoo, Education], 2.900%
+[13:00, Education], 2.867%
+[10:00, Art], 2.733%
+[14:00, Education], 2.667%
+[Astoria Park Track], 2.600%
+[Alley Pond Park Adventure Center], 2.533%
+[Blue Heron Nature Center], 2.533%
+[09:00, Arsenal], 2.533%
+[Belvedere Castle, Education], 2.500%
+[10:00, Education], 2.467%
+[Astoria Park Track, Fitness], 2.400%
+[Accessible, Arsenal], 2.400%
+[18:30], 2.300%
+[12:00, Education], 2.233%
+[10:00, Fitness], 2.233%
+[Bryant Park], 2.167%
+[15:00], 2.133%
+[10:00, Arsenal], 2.067%
+[Art, Bartow-Pell Mansion Museum], 2.033%
+[Belvedere Castle, Nature], 2.033%
+
+==High-confidence association rules (min_conf=50.0%)
+[Carmine Carro Community Center] => [Fitness] (Conf: 100.000%, Supp: 3.000%)
+[Bronx Zoo] => [Education] (Conf: 100.000%, Supp: 2.900%)
+[Astoria Park Track] => [Fitness] (Conf: 92.308%, Supp: 2.400%)
+[Alice Austen House Museum] => [Art] (Conf: 63.087%, Supp: 3.133%)
+[Arsenal] => [Art] (Conf: 61.874%, Supp: 9.467%)
+[Art] => [Arsenal] (Conf: 58.436%, Supp: 9.467%)
+[Charles A. Dana Discovery Center] => [Nature] (Conf: 55.901%, Supp: 3.000%)
+[Belvedere Castle] => [Education] (Conf: 54.348%, Supp: 2.500%)
+[Bartow-Pell Mansion Museum] => [Art] (Conf: 50.000%, Supp: 2.033%)
